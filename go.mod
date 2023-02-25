@@ -17,7 +17,6 @@ require (
 	github.com/muesli/reflow v0.1.1-0.20200715144030-a312cb5b2d8d
 	github.com/muesli/termenv v0.7.4
 	github.com/spf13/cobra v1.0.0
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
-	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc // indirect
-	golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sys v0.1.0
 )
